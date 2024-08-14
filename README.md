@@ -1,4 +1,4 @@
-![logo](Banner)
+![logo](https://github.com/Fahd-Bin-Ashfaq/Fahd-Bin-Ashfaq/blob/main/Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Fahad Bin Ashfaq</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
